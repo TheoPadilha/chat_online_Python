@@ -1,2 +1,3 @@
 # chat_online_Python
- chat online feito com Python
+ teste de chat online feito com Python
+ status: funcionando 
